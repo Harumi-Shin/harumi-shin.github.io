@@ -1,7 +1,7 @@
-/*タブレット向けレイアウト　ブレイクポイント1000px*/
-@media all and (max-width:1170px) {
+/*タブレット向けレイアウト　ブレイクポイント1130px*/
+@media all and (max-width:1000px) {
   .container{
-    max-width:900px;
+    max-width: 1000px;
     width:90%;
   }
   .lessons{
@@ -17,9 +17,9 @@
 
 
 /*スマホ向けレイアウト　ブレイクポイント670px*/
-@media all and (max-width:670px) {
+@media all and (max-width:600px) {
   .container{
-    max-width: 650px;
+    max-width: 600px;
     width:90%;
   }
   .header-right span{
